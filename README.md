@@ -15,7 +15,7 @@ A simple Android app built using Jetpack Compose.
 
 ## 📸 Screenshot
 
-(Add screenshot below)
+![App Screenshot](screenshot.png)
 
 ---
 
